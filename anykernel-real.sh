@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=ExampleKernel by osm0sis @ xda-developers
+kernel.string=ElectroPerf Kernel By Kunmun
 do.devicecheck=1
 do.modules=0
 do.systemless=1
@@ -12,9 +12,9 @@ do.cleanup=1
 do.cleanuponabort=0
 device.name1=X01BD
 device.name2=X01BDA
-device.name3=
-device.name4=
-device.name5=
+device.name3=ASUS_X01BD
+device.name4=ASUS_X01BDA
+device.name5=ASUS_X01BD_1
 supported.versions=
 supported.patchlevels=
 '; } # end properties
