@@ -14,9 +14,9 @@ device.name1=X01BD
 device.name2=X01BDA
 device.name3=ASUS_X01BD
 device.name4=ASUS_X01BDA
-device.name5=ASUS_X01BD_1
+device.name5=
 supported.versions=
-supported.patchlevels=
+supported.patchlevels=11.0
 '; } # end properties
 
 # shell variables
