@@ -16,11 +16,11 @@ do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=X01BD
-device.name2=X01BDA
-device.name3=Zenfone Max Pro M2 (X01BD)
-device.name4=ASUS_X01BD
-device.name5=ASUS_X01BDA
+device.name1=X00TD
+device.name2=X00T
+device.name3=Zenfone Max Pro M1 (X00TD)
+device.name4=ASUS_X00TD
+device.name5=ASUS_X00T
 supported.versions=10.0-11.0
 supported.patchlevels=
 '; } # end properties
